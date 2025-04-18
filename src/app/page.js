@@ -10,6 +10,8 @@ export default function Home() {
       <section className="text-center mb-5">
         <h5 className="mb-2" style={{ fontSize: "25px", fontWeight: "400" }}>Why Choose Us</h5>
         <h2 className="mb-4 fw-bold">We Are Different From Others</h2>
+
+
         <p className="mb-5 text-muted mx-auto" style={{ fontSize: "23px" }}>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa cupiditate accusantium recusandae soluta explicabo
           hic!
